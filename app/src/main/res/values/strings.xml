@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">TourGuideAPP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="category_hotels">Hotels</string>
+
+    <string name="category_cafes">Cafes</string>
+
+    <string name="category_restaurant">Restaurant</string>
+
+    <string name="category_malls">Malls</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Category Hotels name and address  -->
+
+    <string name="Grand_plaza_name">Grand plaza</string>
+
+    <string name="Grand_plaza_Address">14th May Avenue Behind Pharos University, Smouha, Alexandria Governorate</string>
+
+    <string name="Royal_Crown_name">Royal Crown</string>
+
+    <string name="Royal_Crown">Sidi Gabir, Qism Sidi Gabir, Alexandria Governorate</string>
+
+    <string name="Hilton_name">Hilton</string>
+
+    <string name="Hilton"> 14th of May Bridge Rd, Smouha، Qism Sidi Gabir, Alexandria Governorate 21615</string>
+
+    <string name="Tolip_name">Tolip</string>
+
+    <string name="Tolip"> El-Gaish Rd, Mustafa Kamel WA Bolkli, Qism Sidi Gabir, Alexandria Governorate</string>
+
+    <!--  phone numbers  -->
+
+    <string name="phoneNumber1">0102579882</string>
+
+    <string name="phoneNumber2">0111778941</string>
+
+    <!-- Category Restaurant name and address  -->
+    <string name="Holmes_Burgers_name">Holmes Burgers</string>
+
+    <string name="Holmes_Burgers_address"> Ezbet Saad, Qism Sidi Gabir, Alexandria Governorate</string>
+
+    <string name="Cook_door_name">Cook door</string>
+
+    <string name="Cook_door_address">Izbat Saed، Sidi Gabir, Qesm, Alexandria Governorate</string>
+
+    <string name="Souvlaki_name">Souvlaki</string>
+
+    <string name="Souvlaki_address">Ezbet Saad, Qism Sidi Gabir, Alexandria Governorate</string>
+
+    <string name="Vogue_name">Vogue</string>
+
+    <string name="Vogue_address">El Safa 21، Sidi Gabir, Qism Sidi Gabir, Alexandria Governorat</string>
+
+    <!-- Category Cafe name and address  -->
+    <string name="Cafe_Toscana_name">Cafe Toscana</string>
+
+    <string name="Cafe_Toscana_address">Ezbet Saad, Qism Sidi Gabir, Alexandria Governorate</string>
+
+    <string name="Spirit_name">Spirit</string>
+
+    <string name="Spirit_address">البرت الأول عزبة سعد برج سليم شارع البرت الأول، Smoha Sq., Qism Sidi Gabir, Alexandria Governorate</string>
+
+    <string name="Mazzika_name">Mazzika</string>
+
+    <string name="Mazzika_address"> 3 Masanae Aza, Ezbet Saad, Qism Sidi Gabir, Alexandria Governorate</string>
+
+    <string name="Bullet_name">Bullet</string>
+
+    <string name="Bullet_address">Mostafa Kamel, Ezbet Saad, Qism Sidi Gabir, Alexandria Governorate</string>
+
+    <!-- Category Mall name and address  -->
+    <string name="east_shopping_mall_name">East Shopping Mall</string>
+
+    <string name="east_shopping_mall_address">232-236 Green Street London E7 8LE</string>
+
+    <string name="boxpark__shoreditch_name">Boxpark Shoreditch</string>
+
+    <string name="boxpark__shoreditch_address">2-4 shoreditch London E16Gy</string>
+
+    <string name="angel_centeral_mall_name">Angel Center Mall</string>
+
+    <string name="angel__centeral_address">21 parkfeild Street London N1 OPS</string>
+
+    <string name="one_new_change_mall_name">One New Change Mall</string>
+
+    <string name="one_new_change_mall_address">215-278 UpTon Street London E5 S91Y</string>
+
+
+</resources>

@@ -1,0 +1,65 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:id="@+id/container_text">
+
+        <TextView
+            android:id="@+id/title_TextView"
+            style="@style/TextTitleStyle"
+            tools:text="Title" />
+
+        <ImageView
+            android:id="@+id/listItemImage"
+            style="@style/ImageStyle"
+            tools:src="@drawable/ic_launcher_background" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2.5"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/VectorImages"
+                android:autoLink="map"
+                android:drawableStart="@drawable/place" />
+
+            <TextView
+                android:id="@+id/address_text_view"
+                style="@style/TextStyle"
+                tools:text="Address here" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/VectorImages"
+                android:autoLink="phone"
+                android:drawableStart="@drawable/local_phone" />
+
+            <TextView
+                android:id="@+id/phone_number_text_view"
+                style="@style/TextStyle"
+                tools:text="Phone Number" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
